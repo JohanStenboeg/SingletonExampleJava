@@ -1,3 +1,5 @@
+package DesignPatterns.Singleton;
+
 public class ClassicSingleton {
     private String name;
 
